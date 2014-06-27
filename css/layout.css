@@ -1,0 +1,13 @@
+#nav {
+	width: 150px;
+	float: left;
+}
+
+#nav ul li{
+	list-style-type: none;
+}
+
+#content {
+	margin-left : 158px;
+	padding-top: 20px;
+}
